@@ -3,5 +3,3 @@
 
 <p>&nbsp;<img align="center" src="https://media.discordapp.net/attachments/1342581557944123532/1413189260013600798/Design_680x240.png?ex=68bb068f&is=68b9b50f&hm=b67ce2d5a20b69ebfd7efa887364807dc8e6d8b7041b25a1a8f81fabee6c9b00&=" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vzsxytsxs&show_icons=true&locale=en" alt="vzsxytsxs" /></p>
-
