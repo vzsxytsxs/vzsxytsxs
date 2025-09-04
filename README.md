@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm vzsxytsxs</h1>
 - 📫 How to reach me **vzsxytsxs@proton.me**
 
-<p>&nbsp;<img align="center" src="https://cdn.discordapp.com/attachments/1342581557944123532/1413182720464519168/SPOILER_vzsxytsxs.png?ex=68bb0078&is=68b9aef8&hm=2fea39bab67c36dfcdc628f6290b3db9566e14e347fd10b6f3b2dbab1a3a89a8&" /></p>
+<p>&nbsp;<img align="center" src="https://media.discordapp.net/attachments/1342581557944123532/1413189260013600798/Design_680x240.png?ex=68bb068f&is=68b9b50f&hm=b67ce2d5a20b69ebfd7efa887364807dc8e6d8b7041b25a1a8f81fabee6c9b00&=" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vzsxytsxs&show_icons=true&locale=en" alt="vzsxytsxs" /></p>
 
